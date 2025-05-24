@@ -17,11 +17,11 @@
 		<h1 class="text-2xl font-bold tracking-tight">Vanara</h1>
 		<nav class="space-x-6">
 			<!-- svelte-ignore a11y_invalid_attribute -->
-			<a href="#" class="hover:underline">Features</a>
+			<a href="https://sagnikc395.github.io" class="hover:underline">Features</a>
 			<!-- svelte-ignore a11y_invalid_attribute -->
-			<a href="#" class="hover:underline">Docs</a>
+			<a href="https://sagnikc395.github.io" class="hover:underline">Docs</a>
 			<!-- svelte-ignore a11y_invalid_attribute -->
-			<a href="#" class="hover:underline">GitHub</a>
+			<a href="https://sagnikc395.github.io" class="hover:underline">GitHub</a>
 		</nav>
 	</header>
 
