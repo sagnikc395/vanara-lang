@@ -16,9 +16,12 @@
 	<header class="flex items-center justify-between p-6">
 		<h1 class="text-2xl font-bold tracking-tight">Vanara</h1>
 		<nav class="space-x-6">
-			<a href="#features" class="hover:underline">Features</a>
-			<a href="#docs" class="hover:underline">Docs</a>
-			<a href="#github" class="hover:underline">GitHub</a>
+			<!-- svelte-ignore a11y_invalid_attribute -->
+			<a href="#" class="hover:underline">Features</a>
+			<!-- svelte-ignore a11y_invalid_attribute -->
+			<a href="#" class="hover:underline">Docs</a>
+			<!-- svelte-ignore a11y_invalid_attribute -->
+			<a href="#" class="hover:underline">GitHub</a>
 		</nav>
 	</header>
 
