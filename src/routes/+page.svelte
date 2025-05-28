@@ -1,8 +1,3 @@
-<script>
-	// Any interactivity or state logic goes here if needed
-	import { Input } from '$lib/components/ui/input/index';
-</script>
-
 <svelte:head>
 	<title>Vanara - A New Programming Language</title>
 	<meta
@@ -35,15 +30,12 @@
 			functional programming.
 		</p>
 		<a
-			href="#docs"
+			href="https://sagnikc395.github.io"
 			class="rounded-xl bg-blue-600 px-6 py-3 font-medium transition-all hover:bg-blue-700"
 		>
 			Get Started
 		</a>
 		<h2 class="flex flex-col items-center py-4">Get notified when we release the project!</h2>
-		<div class="flex w-full max-w-sm flex-col gap-1.5 py-4">
-			<Input type="email" id="email" placeholder="email" />
-		</div>
 	</main>
 
 	<!-- Footer -->
